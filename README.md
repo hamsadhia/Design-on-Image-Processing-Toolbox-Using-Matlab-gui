@@ -1,0 +1,2 @@
+# Design-on-Image-Processing-Toolbox-Using-Matlab-gui
+Image processing is an interesting field that studies about various processing techniques for digital images,which is the backbone of the emerging visual communication. MATLAB is a computing platform that is suitable for developing and testing a number of applications. The major advantage of using MATLAB is the graphical user interface (GUI) which can contribute positively to understand the concepts with ease. 
